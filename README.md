@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hel-winther
 - 👀 I’m interested in Games, Automation, Network/Server, Linux
 - 🌱 I’m currently learning Python and bash scripting
-- 📫 How to reach me twitter @HelWinther or discord Hel_Winther#1353
+- 📫 How to reach me discord Hel_Winther#1353
 
 <!---
 Hel-winther/Hel-winther is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
