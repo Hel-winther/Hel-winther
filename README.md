@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hel-winther
-- 👀 I’m interested in Games, Automation, Network/Server, Linux
-- 🌱 I’m currently learning Python and bash scripting
+- 👀 I’m interested in Cybersec, Automation, Network/Server, Linux and Games
+- 🌱 I’m currently learning python, bash and powershell scripting
 - 📫 How to reach me discord hel_winther
 
 <!---
